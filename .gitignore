@@ -37,4 +37,4 @@ terraform.rc
 .DS_Store
 
 # Provider
-# **/darwin_arm64/*
+**/darwin_arm64/*

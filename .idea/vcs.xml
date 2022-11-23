@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-terraform-advanced-deployments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-terraform-aws-assume-role-ec2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-terraform-iam-policy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-terraform-inject-secrets-aws-vault" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-terraform-lambda-api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-terraform-provision-eks-cluster" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-terraform-rds" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform-aws-ec2-instance" vcs="Git" />
+  </component>
+</project>
